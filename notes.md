@@ -7,7 +7,7 @@
 
 ## Basic concepts
 - How computer programs work in general (3 minutes)
-  - Enter the ~~matrix~~ main() function (remember to delete this, they are not going to get it)
+  - Enter the main() function
   - Do some work starting from the top
   - Enter function calls and do some more work
   - Finish
@@ -34,6 +34,9 @@
   - Display the mouse coordinates (http://glslsandbox.com/e#43966.1)
   - Separate the screen in 2 or 3 vertical and/or horizontal regions
 
+- **Optional activity**
+  - Plot functions in 2d (http://glslsandbox.com/e#43969.0)
+  
 ## session 2 - 3d + noise
 * use graph visualizer to explain how to make noise (http://tobyschachman.com/Shadershop/)
 * quickly go over the basics of 3d objects
