@@ -21,16 +21,20 @@
   - We represent colors as a combination of Red, Green and Blue
   - That's how human eyes work. If we are fish or butterflies maybe we also need ultraviolet
   - Each of those values varies from 0 to 1
-  
+
 - **Activity**
   - Have an uniform color on the screen (http://glslsandbox.com/e#43929.0)
-  
+
 - Explain fragcoord, concept that shader runs on every pixel
   - Every frame the time is different
   - For every pixel the coordinate is different
-  
+
 ## session 2 - 3d + noise
 * use graph visualizer to explain how to make noise (http://tobyschachman.com/Shadershop/)
+* quickly go over the basics of 3d objects
+* explain how to create noise on the surface of sphere
+* demonstrate how cos and sin can be used as a basis for noise
+* allow students to experiment with their own noise patterns
 
 ## reference
 book of shaders (http://thebookofshaders.com/)
