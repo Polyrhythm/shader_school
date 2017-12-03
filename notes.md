@@ -34,6 +34,7 @@
 * quickly go over the basics of 3d objects
 * explain how to create noise on the surface of sphere
 * demonstrate how cos and sin can be used as a basis for noise
+* use shader here (http://glslsandbox.com/e#43750.3)
 * allow students to experiment with their own noise patterns
 
 ## reference
