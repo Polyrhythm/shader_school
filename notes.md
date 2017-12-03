@@ -28,6 +28,11 @@
 - Explain fragcoord, concept that shader runs on every pixel
   - Every frame the time is different
   - For every pixel the coordinate is different
+  - Maybe we can also use the mouse coordinates
+  
+- **Activity**
+  - Display the mouse coordinates (http://glslsandbox.com/e#43966.1)
+  - Separate the screen in 2 or 3 vertical and/or horizontal regions
 
 ## session 2 - 3d + noise
 * use graph visualizer to explain how to make noise (http://tobyschachman.com/Shadershop/)
